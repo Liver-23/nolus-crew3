@@ -1,2 +1,2 @@
-Nolus: https://nolus.explorers.guru/account/nolus1kkzgehwyvfueq0ge87v2gk0jpw2gdl9dfcqs90
-OSMO: https://testnet.osmosis.explorers.guru/account/osmo1kkzgehwyvfueq0ge87v2gk0jpw2gdl9dhnrl3c
+- Nolus: https://nolus.explorers.guru/account/nolus1kkzgehwyvfueq0ge87v2gk0jpw2gdl9dfcqs90
+- OSMO: https://testnet.osmosis.explorers.guru/account/osmo1kkzgehwyvfueq0ge87v2gk0jpw2gdl9dhnrl3c

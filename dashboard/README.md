@@ -5,10 +5,10 @@ I am not in active set with low number of tokens, therefore some values are zero
 http://88.198.159.143:3000/d/cpmSlubVk/nolus?orgId=1&refresh=5s&from=now-24h&to=now
 
 ## Description
-The dashboard Was created from scratch as part of Nolus Crew3 activity.
-There are four main areas and one additional I want to add in future that is related to Tendermint metrics. 
-The dashboard is fully custom counting its nature: the monitoring system works with triangle of Grafana + InfluxDB + Telegraf.
-Below there is a description about each value that is monitored
+The dashboard Was created from scratch as part of Nolus Crew3 activity.\
+There are four main areas and one additional I want to add in future that is related to Tendermint metrics.\
+The dashboard is fully custom counting its nature: the monitoring system works with triangle of Grafana + InfluxDB + Telegraf.\
+Below there is a description about each value that is monitored.\
 
 ### Chain Health
  - [x] Binary: the name of the projects binary

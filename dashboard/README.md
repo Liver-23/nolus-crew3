@@ -2,9 +2,7 @@
 I am not in active set with low number of tokens, therefore some values are zeros.
 
 ## Link to the Dashboard
-[Grafana Dashboard](http://88.198.159.143:3000/d/cpmSlubVk/nolus-crew3-task?from=1678134356987&to=1678220756988&orgId=1&refresh=5s)\
-Login: viewer\
-Password: viewer
+[Grafana Dashboard](http://88.198.159.143:3000/d/cpmSlubVk/nolus-crew3-task?from=1678134356987&to=1678220756988&orgId=1&refresh=5s)
 
 ## Description
 The dashboard Was created from scratch as part of Nolus Crew3 activity.\
